@@ -1,0 +1,46 @@
+
+======================================
+       REVA UNIVERSITY
+     STUDENT MANAGEMENT SYSTEM
+======================================
+
+1. Add student
+2. View all students
+3. Search student by name
+4. Update student phone
+5. Delete student
+6. Calculate total active fees
+7. Demonstrate OOP features
+0. Exit
+Enter your choice: ID       NAME                 DEPARTMENT      PHONE        FEE           STATUS  
+-------------------------------------------------------------------------------
+101      Asha Rao             BSC_BSTCS       9876543210   Rs.25000      Active  
+102      Rohan Kumar          BCA             9988776655   Rs.30000      Active  
+  Scholarship: Rs.5000.00 | Net fee: Rs.25000.00
+Total student records: 2
+
+1. Add student
+2. View all students
+3. Search student by name
+4. Update student phone
+5. Delete student
+6. Calculate total active fees
+7. Demonstrate OOP features
+0. Exit
+Enter your choice: 
+--- OOP demonstration ---
+Dynamic role: Scholarship Student
+Name: Demo Student | Phone: 9000000000
+FeePayable interface result: Rs.1000.00
+Static total Student objects created: 3
+Example toString(): Student{Name=Demo Student, Phone=9000000000, id=999, department=BSC_BSTCS, fee=20000.0, active=true}
+
+1. Add student
+2. View all students
+3. Search student by name
+4. Update student phone
+5. Delete student
+6. Calculate total active fees
+7. Demonstrate OOP features
+0. Exit
+Enter your choice: Thank you for using the Student Management System!
